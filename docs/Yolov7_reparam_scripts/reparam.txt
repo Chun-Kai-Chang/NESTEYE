@@ -1,0 +1,4 @@
+python /home/ee610/Kaiii/Edge_AI/yolov7/Yolov7_reparam_scripts/reparam_yolov7-tiny.py \
+--weights "/home/ee610/Kaiii/Edge_AI/yolov7/runs/train/bird_yolov7_tiny3/weights/best.pt" \ 
+--custom_yaml  /home/ee610/Kaiii/Edge_AI/yolov7/Yolov7_reparam_scripts/yolov7-tiny-deploy.yaml \
+--output ../best_reparam_v6.pt

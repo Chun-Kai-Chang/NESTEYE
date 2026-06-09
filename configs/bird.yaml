@@ -1,0 +1,12 @@
+path: /home/ee610/Kaiii/Edge_AI/bird_dataset
+
+train: /home/ee610/Kaiii/Edge_AI/bird_dataset/images/train
+val:   /home/ee610/Kaiii/Edge_AI/bird_dataset/images/val
+test:  /home/ee610/Kaiii/Edge_AI/bird_dataset/images/test
+
+nc: 3
+
+names:
+  0: Columba_livia
+  1: Passer_montanus
+  2: Hirundo_rustica

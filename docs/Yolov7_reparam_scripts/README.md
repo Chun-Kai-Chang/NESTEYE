@@ -1,0 +1,3 @@
+在建置完虛擬環境，並安裝好相關要求套件後，將 Yolov7_reparam_scripts 放入指定路徑：
+
+yolov7/Yolov7_reparam_scripts
