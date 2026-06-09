@@ -7,6 +7,7 @@
     - yolov7/01_train.txt
     - yolov7/Yolov7_reparam_scripts/reparam.txt
 
+
 Step 1：至 docs/environment_setup.md，完成虛擬環境建置，以及相關套件安裝。
 Step 2：至 docs/Yolov7_reparam_scripts/README.md，完成檔案遷移。
 Step 3：至 configs/README.md，完成檔案遷移。
